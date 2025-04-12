@@ -1,10 +1,9 @@
 {
   "dependencies": {
     "discord.js": "^14.18.0",
-    "nodemon": "^3.1.0",
-    "snekfetch": "^4.0.4"
+    "nodemon": "^3.1.0"
   },
-  "name": "wraithbot",
+  "name": "discordbot",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
