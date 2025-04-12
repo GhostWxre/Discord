@@ -1,0 +1,7 @@
+{
+    "clientToken": "YOUR_BOT_TOKEN_HERE",
+    "inTesting": true,
+    "testServerId": "YOUR_GUILD_ID_HERE",
+    "partials": ["MESSAGE", "CHANNEL", "REACTION"],
+    "ignoreBots": true
+}
