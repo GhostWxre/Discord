@@ -52,9 +52,9 @@ Modded clients may violate Discord’s Terms of Service. While the risk of accou
 ## 🤝 Community & Support
 
 For any issues or questions, consider joining the official support communities of the modded clients:
-- **[Aliucord Discord Server](https://discord.gg/aliucord)**
-- **[BetterDiscord Community](https://discord.gg/BetterDiscord)**
-- **[Vencord Community](https://discord.gg/Vencord)**
+- **[Aliucord Discord Server](https://aliucord.com/links/discord)**
+- **[BetterDiscord Community](https://discord.com/invite/0Tmfo5ZbORCRqbAd)**
+- **[Vencord Community](https://vencord.dev/discord)**
 
 Stay updated with the latest features, bug fixes, and user support by joining these communities.
 
